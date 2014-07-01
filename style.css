@@ -1,0 +1,21 @@
+/*
+Theme Name: Starcher (Place child theme)
+Theme URI: http://demo.presslayer.com/?theme=Place
+Author: Julie Kuehl
+Author URI: http://www.juliekuehl.com
+Template: Place
+Description: Custom Blog Responsive Wordpress Theme Created for George Starcher
+Version: 1.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: Black, Dark, Four Columns, Flexible Width, Theme Options, Custom Menu, Custom Background, Right Sidebar
+Text Domain: http://themeforest.net/user/PressLayer/?ref=PressLayer
+*/
+
+@import url("../Place/style.css");
+
+/* Child CSS customizations */
+
+/* Social icon additions */
+	.widget_socials a.appnet { background-color:#747474; background-image:url(images/social_icons/appnet.png)}
+
